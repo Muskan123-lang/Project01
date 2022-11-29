@@ -1,0 +1,54 @@
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.deps.json
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.runtimeconfig.json
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.runtimeconfig.dev.json
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.dll
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\ref\Nagarro.BookTheShow.BL.dll
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.pdb
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.Interfaces.pdb
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.AssemblyReference.cache
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.AssemblyInfoInputs.cache
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.AssemblyInfo.cs
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.CoreCompileInputs.cache
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.CopyComplete
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.dll
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\ref\Nagarro.BookTheShow.BL.dll
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.pdb
+C:\Users\shivamkushwaha\source\repos\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.genruntimeconfig.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.deps.json
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.runtimeconfig.json
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.runtimeconfig.dev.json
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\ref\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.pdb
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.Interfaces.pdb
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.AssemblyReference.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.AssemblyInfoInputs.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.AssemblyInfo.cs
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.CoreCompileInputs.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.CopyComplete
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\ref\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.pdb
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.genruntimeconfig.cache
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.deps.json
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.runtimeconfig.json
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.runtimeconfig.dev.json
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\ref\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.BL.pdb
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\bin\Debug\net5.0\Nagarro.BookTheShow.Interfaces.pdb
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.AssemblyReference.cache
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.AssemblyInfoInputs.cache
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.AssemblyInfo.cs
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.CoreCompileInputs.cache
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.csproj.CopyComplete
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\ref\Nagarro.BookTheShow.BL.dll
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.pdb
+C:\Users\muskansharma01\OneDrive - Nagarro\Documents\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.BL\obj\Debug\net5.0\Nagarro.BookTheShow.BL.genruntimeconfig.cache

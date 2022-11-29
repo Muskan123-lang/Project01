@@ -1,0 +1,15 @@
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\bin\Release\net5.0\Nagarro.BookTheShow.Interfaces.deps.json
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\bin\Release\net5.0\Nagarro.BookTheShow.Interfaces.runtimeconfig.json
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\bin\Release\net5.0\Nagarro.BookTheShow.Interfaces.runtimeconfig.dev.json
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\bin\Release\net5.0\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\bin\Release\net5.0\ref\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\bin\Release\net5.0\Nagarro.BookTheShow.Interfaces.pdb
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.csproj.AssemblyReference.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.AssemblyInfoInputs.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.AssemblyInfo.cs
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\ref\Nagarro.BookTheShow.Interfaces.dll
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.pdb
+C:\Users\muskansharma01\source\repos\Project\Nagarro.BookTheShow\Nagarro.BookTheShow.Interfaces\obj\Release\net5.0\Nagarro.BookTheShow.Interfaces.genruntimeconfig.cache
